@@ -30,7 +30,8 @@ This project is a *Customer Management System* built using the *MERN stack (Mong
 
 
 
-![image](https://github.com/user-attachments/assets/f7004290-1c95-4507-a145-dfe746292f34)
+![WhatsApp Image 2024-12-07 at 23 52 05_22978e72](https://github.com/user-attachments/assets/2bb262dd-f0fb-40e4-860a-560d33324d39)
+
 
 ### Steps
 
