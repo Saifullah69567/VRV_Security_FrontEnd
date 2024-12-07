@@ -1,15 +1,15 @@
 # Admin Dashboard - Customer Management System
 
-This project is a *Customer Management System* built using the *MERN stack (MongoDB, Express.js, React.js, Node.js)*. It allows users to manage customer information, purchase orders, and shipping details, with features to add, view, and delete customer data.
+This project is a Customer Management System developed with the MERN stack (MongoDB, Express.js, React.js, Node.js). It enables users to efficiently manage customer data, order history, and shipping information. The system includes features for adding, viewing, and deleting customer records.
 
 ---
 
 ## 🚀 Features
-- *Add Customers*: Create new customer profiles with details like name, email, phone number, and city.
-- *View Data*: Fetch and display lists of customers, purchase orders, and shipping details.
-- *Delete Customers*: Remove customer profiles by selecting a specific customer.
-- *Form Validation*: Ensures required fields are filled before submission.
-- *Responsive Design*: Frontend adapts to different screen sizes.
+- *Add Customers: Create new customer profiles by entering details such as name, email, phone number, and city.
+- *View Data: Retrieve and display customer lists, order histories, and shipping information.
+- *Delete Customers: Remove customer profiles by selecting a specific entry.
+- *Form Validation: Ensures all required fields are completed before submission.
+- *Responsive Design: The frontend adjusts to various screen sizes for optimal viewing.
 
 ---
 
@@ -30,7 +30,11 @@ This project is a *Customer Management System* built using the *MERN stack (Mong
 
 
 
-![WhatsApp Image 2024-12-07 at 23 52 05_22978e72](https://github.com/user-attachments/assets/2bb262dd-f0fb-40e4-860a-560d33324d39)
+![WhatsApp Image 2024-12-07 at 23 52 05_f4e506b2](https://github.com/user-attachments/assets/9a34d5b5-b820-42b5-b8d5-464cc0a4296b)
+![WhatsApp Image 2024-12-07 at 23 52 29_af15de83](https://github.com/user-attachments/assets/943247c0-6c2f-4710-938a-616d56d810de)
+![WhatsApp Image 2024-12-07 at 23 52 49_d4cbd8ae](https://github.com/user-attachments/assets/d3b77cb6-a5ba-46e9-b4ab-5eda5401a73d)
+![WhatsApp Image 2024-12-07 at 23 53 11_767221fe](https://github.com/user-attachments/assets/361777c1-6d6d-4d14-aa3e-7754bbbca0a5)
+
 
 
 ### Steps
@@ -62,5 +66,6 @@ Use Postman to test backend routes.
 Ensure MongoDB is running locally or connected via a cloud service like MongoDB Compass.
 Check React frontend functionality after ensuring the backend is running.
 📧 Contact
-Name: Piyush Thakur
-Email: piyushthakur210092@acropolis.in
+Name: Mo Saifullah
+Email: saifullah210058@acropolis.in
+LinkedIn: www.linkedin.com/in/mo-saifullah-6a123b231
